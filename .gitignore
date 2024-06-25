@@ -1,0 +1,4 @@
+*.pyc
+firstvenv
+.vscode
+FirstDashApp/
